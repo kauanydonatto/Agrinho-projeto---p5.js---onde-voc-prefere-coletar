@@ -1,0 +1,1 @@
+O objetivo é fazer a sua maior pontuação. Quando iniciar, você ira saber o que deve coletar, então, se coletar o contrário, sua pontuação diminui. Para jogar,você deve utilizar as setas do teclado. Para desenvolver esse projeto, utilizei ajuda do gemini e do ChatGPT.
